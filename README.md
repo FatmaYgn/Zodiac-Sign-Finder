@@ -6,6 +6,5 @@ https://github.com/FatmaYgn/Zodiac-Sign-Finder/assets/152922589/0f90baee-e5b6-40
 
 
 
-If you want to test it out, go to http://localhost:3000/
-<br>
-But first install required npm packages.
+If you want to test it out, visit http://localhost:3000/ in your web browser. 
+Don't forget to install the required npm packages in the terminal.
